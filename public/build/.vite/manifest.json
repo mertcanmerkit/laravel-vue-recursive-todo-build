@@ -1,0 +1,23 @@
+{
+  "resources/js/app.js": {
+    "file": "assets/app-Dz4_XVQ9.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/pages/TaskList.vue"
+    ],
+    "css": [
+      "assets/app-sTgYjTuK.css"
+    ]
+  },
+  "resources/js/pages/TaskList.vue": {
+    "file": "assets/TaskList-DAj9pbgD.js",
+    "name": "TaskList",
+    "src": "resources/js/pages/TaskList.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  }
+}
